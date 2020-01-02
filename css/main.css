@@ -1,0 +1,93 @@
+body{
+  background-color: #808080;
+}
+
+*{
+  padding: 0;
+  line-height: 2em;
+}
+
+a{
+  text-decoration : none;
+  font-size : 30px;
+  color : black;
+  padding: 5px;
+  margin : 6px 6px;
+}
+
+#picture{
+  text-align: center;
+}
+
+p{
+  background : #F7F2E0;
+  letter-spacing:3px;
+  font-weight: 700;
+  color:#92B3B7;
+  margin-bottom: 10px;
+}
+
+#titles{
+  text-align : center;
+}
+#titles > a{
+  color : #F7F2E0;
+  font-size: 50px;
+}
+
+
+#third{
+  text-align: center;
+  background-color: white;
+}
+#er{
+  text-align: center;
+  font-size: 30px;
+  background-color: white;
+  margin : 50px;
+}
+ul{
+  text-align: center;
+  list-style: none;
+  background-color: #F7F2E0;
+  font-weight: 600;
+  width: 50%;
+}
+#title{
+  font-size: 50px;
+  font-weight: 900;
+}
+#secons{
+  text-align: center;
+  background: #F7F2E0;
+  flex-direction: row;
+  justify-content: center;
+}
+div{
+    width: 70%;
+}
+.picture{
+  display: flex;
+}
+.picture > dt > a{
+  margin-left: 50px;
+}
+.ulid{
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+dl{
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+dt{
+  text-align: center1;
+}
+#picture{
+  text-align: left;
+}
