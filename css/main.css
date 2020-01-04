@@ -17,6 +17,7 @@ a{
 
 #picture{
   text-align: center;
+  display: inlene-flex;
 }
 
 p{
